@@ -17,7 +17,7 @@ Ciclo for
         System.out.print("Ingrese la cantidad de números para imprimir: ");
         contador3 = para.nextInt();
 
-        for (int i = 2; i <= contador3; i += 2){
+        for (int i = 0; i <= contador3; i += 2){
             System.out.print(i+" - ");
         }
 
